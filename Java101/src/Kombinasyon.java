@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Faktoriyel {
+public class Kombinasyon {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
