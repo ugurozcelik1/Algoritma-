@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RecursiveBes {
+public class RecursiveFive {
     static void five (int n, int a) {
         if (a > 0) {
             a -= 5;
