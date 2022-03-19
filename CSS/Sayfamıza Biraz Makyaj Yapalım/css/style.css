@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(20, 20, 20);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(250, 211, 211);
+    list-style-position: inside;
+}
+
+.text-red{
+    color: red;
+}
+.fs-small{
+    font-size: 14px;
+}
+.fs-medium{
+    font-size: 20px;
+}
+.fs-large{
+    font-size: 30px;
+}
+#text-blue{
+    color: blue;
+}
+h1 {
+    
+    font-size: 30px;
+}
